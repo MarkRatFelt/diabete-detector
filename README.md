@@ -1,4 +1,4 @@
-# diabete-detector
+# diabetes-detector
 This is just an example, how we ca use keras for a Binary problem. 
 
 There's diabetis (1) or not (0) 
